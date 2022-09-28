@@ -1,0 +1,51 @@
+.searchCard {
+    width: 75vw;
+    padding: 10px;
+    height: auto;
+    margin: auto;
+    background-color: rgba(212, 179, 148, 0.8);
+    
+    
+}
+
+.control {
+    margin-left: 15px;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+.mainBody {
+    background: lightblue url("https://www.wallpaperflare.com/static/940/311/672/concert-crowd-audience-people-wallpaper-preview.jpg") no-repeat fixed center;
+    background-size: cover;
+    background-position: bottom;
+    height: 80vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.webpage-guide {
+    background-color: #954343;
+    color: whitesmoke;
+    margin: 2rem;
+}
+   
+.webpage-guide h3 {
+    color: whitesmoke;
+}
+
+
+ .panel-heading{
+    background-color: rgba(212, 179, 148, 0.8) ;
+}
+
+.event-details {
+    padding: 50px;
+}
+
+footer {
+    height: auto;
+}
