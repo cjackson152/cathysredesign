@@ -1,0 +1,120 @@
+.searchCard {
+    width: 75vw;
+    padding: 25px;
+    height: auto;
+    margin: auto;
+    background: none;
+}
+
+.saveBtn {
+    width: 100%;
+    background-color: aqua;
+}
+
+.searchResults {
+    text-align: center;
+    padding: 10px;
+}
+
+.resultsRow {
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 10px;
+    font-family: Helvetica, sans-serif;
+    font-stretch: extra-condensed;
+}
+
+#artist-upcoming {
+    font-weight: bolder;
+    font-size: 25px;
+}
+.control {
+    margin-left: 15px;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+.searchButton {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.mainBody {
+    background-image:  url("cookiesBackground.jpg");
+    background-size: cover;
+    background-position: bottom;
+    height: 80vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.webpage-guide {
+    background-color: #eb5473;
+    color: whitesmoke;
+    padding-top: 50px;
+}
+   
+.webpage-guide h2 {
+    padding-top: 20px;
+}
+
+.webpage-guide h3 {
+    color: whitesmoke;
+}
+
+ .panel-heading{
+    background-color: white;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 800;
+}
+
+.event-details {
+    padding: 50px;
+}
+
+footer {
+    height: auto;
+}
+
+.navbar {
+    background-color: #eb5473;
+    color: white
+}
+
+.navbar-item {
+    color: white
+}
+
+.logo {
+    max-width:100%;
+    margin-left:auto;
+    margin-right: auto;
+    
+}
+
+#socialIcon {
+    margin: 1rem;
+    align-items: center;
+}
+
+.a {
+    color: white;
+    margin: 2rem;
+    padding: 1rem;
+}
+
+.icon {
+    color: #eb5473
+}
+
+#heroWhite {
+    border-radius: 25px;
+    color: #eb5473;
+}
