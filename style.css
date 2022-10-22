@@ -125,14 +125,9 @@ footer {
 
 #aboutUs {
     font-weight: bolder;
-    font-size: 2.5em;
+    font-size: 2.5vw;
 }
 
-@media only screen and (max-width: 600px) {
-    h1 {
-        font-size: 1em;
-    }
-}
 
 #contactUs {
     font-weight: bolder;
