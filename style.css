@@ -120,15 +120,21 @@ footer {
 
 #calendarP {
     font-weight: bolder;
-    font-size: 1rem;
+    font-size: 1em;
 }
 
 #aboutUs {
     font-weight: bolder;
-    font-size: 1rem;
+    font-size: 2.5em;
+}
+
+@media only screen and (max-width: 400px) {
+    h1 {
+        font-size: 1em;
+    }
 }
 
 #contactUs {
     font-weight: bolder;
-    font-size: 2rem;
+    font-size: 2em;
 }
